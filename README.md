@@ -2,7 +2,7 @@
 
 *Ethical questions, risks and issues to think about to help create responsible AI products and services*.
 
-This is a non-exhaustive list of issues, questions and risks when trying to create a ethical/responsible AI service or product.
+This is a non-exhaustive list of issues, questions and risks when trying to create an ethical/responsible AI service or product.
 
 The framework found [here](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md) is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc.
 
@@ -10,7 +10,7 @@ This framework is used by [Ethical By Design](https://ethicalby.design) as a met
 
 As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help you uncover as an organisation discover issues you may have overlooked and put better practises in place to mitigate inherent issues with using AI technologies in the real world (e.g. other than in simulation).
 
-Final caveat: This is not relevant to AGI research but refers to a business interested or currently using Machine Learning, genetic algorithms, automata, or expert systems in a larger system context.
+Final caveat: This is not relevant to AGI research, singularity or theory of mind but refers to a business interested or currently using Machine Learning, genetic algorithms, automata, or expert systems in a larger system context.
 
 ## How to use this framework
 
@@ -25,6 +25,23 @@ An even better idea would be to use this framework as an advocacy opportunity to
 ### Evolving
 
 As with the technology itself, this framework will evolve and update to reflect new research, experiences and case studies. Again this is only a helpful tool when looking to use AI/ML algorithms to better understand their affect on society, NOT a definitive HOW TO GUIDE.
+
+### Framework formatting
+
+Category -> persons to who in an organsation this may relate
+    - issue / problem / technology area [general or specific technology consideration]
+        - General issue articulation
+            - Secondary related articulations or format
+            - Example question formations relating to real world questions
+                - reasons for consideration
+                - possible implecations to AI product, organisation or persons
+                    - possible solutions / directions of travel
+                    - references
+
+
+## General Principles
+
+This framework is NOT a collection of general AI Ethics principles, please refer to the European Commission's [Ethics guidlines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) which has been widely accepted. This Framework is a lower level view on the Ethics guidlines 
 
 ## Collaboration
 
