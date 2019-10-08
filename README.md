@@ -8,7 +8,7 @@ The framework found [here](https://github.com/benbyford/ai-ethics-framework/blob
 
 This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, goverance frameworks and research. 
 
-As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help you uncover as an organisation discover issues you may have overlooked and put better practises in place to mitigate inherent issues with using AI technologies in the real world (e.g. other than in simulation).
+As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation).
 
 Final caveat: This is not relevant to AGI research, singularity or theory of mind but refers to a business interested or currently using Machine Learning, genetic algorithms, automata, or expert systems in a larger system context.
 

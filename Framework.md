@@ -1,6 +1,6 @@
 # AI Ethics Framework
 
-*A general ethics framework for organisations to leanr more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design)*
+*A general ethics framework for organisations to leanr more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this frameowkr please read the READ.md document*
 
 ***
 
@@ -65,6 +65,8 @@
 
 - ### Unwanted Bias
 
+  - Fairness of participants an AI system should be upheld and, where possible, be demonstrated through statistical analysis 
+
 - ### Data manipulation
 
 ## Technology
@@ -78,6 +80,8 @@
 - ### Monitoring [specific technology consideration]
   
   - definition of expected behaviour / error handling / unintended behaviour / introducing bias
+
+- ### Explainability
 
 - ### Third party algorithms and services
 
