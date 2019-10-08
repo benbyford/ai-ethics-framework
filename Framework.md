@@ -17,8 +17,12 @@
 [general technology consideration]
 
 - ### Product alignment / intentions
+  
+  - Does the service meet a meaningful human need, address an injustice, or create a positive change in behaviour?
 
 - ### Diversity
+
+  - Is the team a reflection of values and cultures found in your market and anyone else orthoganal to your service?
 
 - ### Transparent
 
@@ -30,6 +34,10 @@
 
 - ### Democratising
 
+- ### Poltical exploitation
+
+- ### Business model
+
 
 ## Design
 
@@ -39,7 +47,11 @@
 
 - ### Transparency
 
+- ### Gender imposition
+
 - ### Unintended consequences
+
+  - If the product was to be wildly successful what are the good and bad consequences to the world?
 
 ## Data
 
