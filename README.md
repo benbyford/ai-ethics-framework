@@ -28,15 +28,29 @@ As with the technology itself, this framework will evolve and update to reflect 
 
 ### Framework formatting
 
-Category -> persons to who in an organsation this may relate
-    - issue / problem / technology area [general or specific technology consideration]
-        - General issue articulation
-            - Secondary related articulations or format
-            - Example question formations relating to real world questions
-                - reasons for consideration
-                - possible implecations to AI product, organisation or persons
-                    - possible solutions / directions of travel
-                    - references
+*Format key:*
+
+Category
+
+-> persons to who in an organsation this may relate
+
+[general or speicifc technology consideration]
+
+- issue / problem / technology area
+
+  - General issue articulation
+
+    - Secondary related articulations or format
+
+    - Example question formations relating to real world questions
+
+      - reasons for consideration
+
+      - possible implecations to AI product, organisation or persons
+
+        - possible solutions / directions of travel
+
+        - references
 
 
 ## General Principles
