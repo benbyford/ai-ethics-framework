@@ -28,6 +28,7 @@ An even better idea would be to use this framework as an advocacy opportunity to
 
 As with the technology itself, this framework will evolve and update to reflect new research, experiences and case studies. Again this is only a helpful tool when looking to use AI/ML algorithms to better understand their affect on society, NOT a definitive HOW TO GUIDE.
 
+
 ### Framework formatting
 
 *Format key:*
@@ -62,6 +63,10 @@ This framework is NOT a collection of general AI Ethics principles, please refer
 ## Collaboration
 
 This project and [Ethical By Design](https://ethicalby.design) headed by [Ben Byford](https://www.benbyford.com) welcome issue and pull requests to this repository. To find out more about us and what we're doing please find us here [https://ethicalby.design](https://ethicalby.design) or on twitter here [@ethicalbydesign](https://twitter.com/ethicalbydesign).
+
+## Why?
+
+Why are we even considering AI ethics? Hopefully though this endeavour we're able to reduce harm and negative impacts to humans and the environment while maximising positive outcomes for society.
 
 ## References
 

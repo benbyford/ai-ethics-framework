@@ -10,6 +10,8 @@
   
   - Where is or isn't it appropriate to use AI/ML
 
+- ### Legislation for new technologies and their uses
+
 - ### Education / knowledge and awareness
 
 ## Businesses / organisations / brand
@@ -58,6 +60,8 @@
 [specific technology consideration]
 
 - ### Transparency
+
+- ### Upholding norms of wellness and human flourishing
 
 ## Data
 
