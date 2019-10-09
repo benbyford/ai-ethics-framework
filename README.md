@@ -18,6 +18,8 @@ Final caveat: This is not relevant to AGI research, singularity or theory of min
 
 The framework is split into categories that are board approximations for issues that relate to a type of person within an organisation. Each category will stipulate these people before each list. This doesn't mean that if that person isn't what relates to you then not to read that section, but it is a proxy for whom these decisions or choices often fall. For example it may be advised that that all decision making parties with the organistion read the entire list, some of it may go over individuals head but it will mean you all on-boarded to issues that arise in different areas of the organisation.
 
+Many topics could fit into various categories but have been added to that category out of basic need to put somewhere or better resonance with that category and decision maker.
+
 ### Advocacy / leadership
 
 An even better idea would be to use this framework as an advocacy opportunity to take some of these issues to the decision making parties within your organisation and pertain to whether they have already look at / discussed the issues in question. 

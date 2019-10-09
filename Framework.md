@@ -24,8 +24,6 @@
 
   - Is the team a reflection of values and cultures found in your market and anyone else orthoganal to your service?
 
-- ### Transparent
-
 - ### Accountantable
 
 - ### Organisational culture / ethos
@@ -45,13 +43,21 @@
 
 - ### Inclusive / exclusive
 
-- ### Transparency
+  - People should be aware that they are interacting with an AI system, and should be informed of the system’s capabilities and limitations
+
+- ### Fairness
 
 - ### Gender imposition
+
+- ### Environmental impact
 
 - ### Unintended consequences
 
   - If the product was to be wildly successful what are the good and bad consequences to the world?
+
+[specific technology consideration]
+
+- ### Transparency
 
 ## Data
 
@@ -74,6 +80,8 @@
 [general technology consideration]
 
 - ### Security
+
+- ### Saftey
 
 [specific technology consideration]
 
