@@ -1,8 +1,6 @@
 # AI Ethics Framework
 
-*A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the READ.md document*
-
-***
+***A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the READ.md document***
 
 ## Govenments
 
@@ -56,11 +54,11 @@
 
 - ### Inclusive / exclusive
 
-  - People should be aware that they are interacting with an AI system, and should be informed of the system’s capabilities and limitations
+  - People should be aware that they are interacting with an AI system, and should be informed of the system’s capabilities and limitations.
 
 - ### Fairness
 
-  - What are the measures of fairness in your particallar area? 
+  - What are the measures of fairness in your particallar area?
 
   - What compromises are you making between fairness of different groups?
 
@@ -154,29 +152,3 @@
 - ### Robust
 
   - Is the research considered robust, appropriate and ethically sound to conduct?
-
-***
-
-*Format key:*
-
-Category
-
--> persons to who in an organisation this may relate
-
-[general or specific technology consideration]
-
-- issue / problem / technology area
-
-  - General issue articulation
-
-    - Secondary related articulations or format
-
-    - Example question formations relating to real world questions
-
-      - reasons for consideration
-
-      - possible implications to AI product, organisation or persons
-
-        - possible solutions / directions of travel
-
-        - references

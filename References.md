@@ -21,3 +21,7 @@
 ## Consultant companies / organisations
 
 - Ethical by Design - [https://www.ethicalby.design/](https://www.ethicalby.design/)
+
+## Governance
+
+- PWC - Three governance considerations to unlock the potential of AI [https://www.digitalpulse.pwc.com.au/AI-governance-considerations/](https://www.digitalpulse.pwc.com.au/AI-governance-considerations/)
