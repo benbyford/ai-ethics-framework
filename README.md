@@ -6,7 +6,7 @@ This is a non-exhaustive list of issues, questions and risks when trying to crea
 
 The framework found [here](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md) is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc.
 
-This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, goverance frameworks and research. 
+This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, governance frameworks and research.
 
 As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation).
 
@@ -16,7 +16,7 @@ Final caveat: This is not relevant to AGI research, singularity or theory of min
 
 ### Why broad categories?
 
-The framework is split into categories that are board approximations for issues that relate to a type of person within an organisation. Each category will stipulate these people before each list. This doesn't mean that if that person isn't what relates to you then not to read that section, but it is a proxy for whom these decisions or choices often fall. For example it may be advised that that all decision making parties with the organistion read the entire list, some of it may go over individuals head but it will mean you all on-boarded to issues that arise in different areas of the organisation.
+The framework is split into categories that are board approximations for issues that relate to a type of person within an organisation. Each category will stipulate these people before each list. This doesn't mean that if that person isn't what relates to you then not to read that section, but it is a proxy for whom these decisions or choices often fall. For example it may be advised that that all decision making parties with the organisation read the entire list, some of it may go over individuals head but it will mean you all on-boarded to issues that arise in different areas of the organisation.
 
 Many topics could fit into various categories but have been added to that category out of basic need to put somewhere or better resonance with that category and decision maker.
 
@@ -28,6 +28,10 @@ An even better idea would be to use this framework as an advocacy opportunity to
 
 As with the technology itself, this framework will evolve and update to reflect new research, experiences and case studies. Again this is only a helpful tool when looking to use AI/ML algorithms to better understand their affect on society, NOT a definitive HOW TO GUIDE.
 
+### Meaning Flipping
+
+The framework is largely written in the negative e.g. What negative environmental impact is your design going to have? However, it may also be useful to use the framework to concentrate on the positive by flipping some of the meanings to it's binary positive where appropriate e.g. What positive environmental impacts will design have?
+
 
 ### Framework formatting
 
@@ -35,9 +39,9 @@ As with the technology itself, this framework will evolve and update to reflect 
 
 Category
 
--> persons to who in an organsation this may relate
+-> persons to who in an organisation this may relate
 
-[general or speicifc technology consideration]
+[general or specific technology consideration]
 
 - issue / problem / technology area
 
@@ -49,7 +53,7 @@ Category
 
       - reasons for consideration
 
-      - possible implecations to AI product, organisation or persons
+      - possible implications to AI product, organisation or persons
 
         - possible solutions / directions of travel
 
@@ -58,7 +62,7 @@ Category
 
 ## General Principles
 
-This framework is NOT a collection of general AI Ethics principles, please refer to the European Commission's [Ethics guidlines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) which has been widely accepted. This Framework is a lower level view on the Ethics guidlines 
+This framework is NOT a collection of general AI Ethics principles, please refer to the European Commission's [Ethics guidlines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) which has been widely accepted. This Framework is a lower level view on the Ethics guidelines.
 
 ## Collaboration
 

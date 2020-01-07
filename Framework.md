@@ -1,19 +1,20 @@
 # AI Ethics Framework
 
-*A general ethics framework for organisations to leanr more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this frameowkr please read the READ.md document*
+*A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the READ.md document*
 
 ***
 
 ## Govenments
 
 [general technology consideration]
+
 - ### Legislation for new technologies and their uses
 
 - ### Education / knowledge and awareness
 
 - ### Appropriate measurements of technologically influenced social flourishing
 
-[specific technology consideration]
+[specific AI technology consideration]
 
 - ### Appropriate AI usage
   
@@ -22,7 +23,6 @@
 - ### Surveillance
 
   - When ad for what reason is Surveillance appropriate?
-
 
 ## Businesses / organisations / brand
 
@@ -42,11 +42,11 @@
 
 - ### Democratising
 
-- ### Poltical exploitation
+- ### Political exploitation
 
 - ### Business model
 
-[specific technology consideration]
+[specific AI technology consideration]
 
 - ### Accountantable
 
@@ -60,19 +60,33 @@
 
 - ### Fairness
 
-- ### Gender imposition
+  - What are the measures of fairness in your particallar area? 
+
+  - What compromises are you making between fairness of different groups?
+
+- ### Imposition (Gender or otherwise)
+
+  - How is the system being portrayed?
 
 - ### Environmental impact
+
+  - What is the direct negative environmental impact for your design? Is there was to mitigate?
 
 - ### Unintended consequences
 
   - If the product was to be wildly successful what are the good and bad consequences to the world?
 
-[specific technology consideration]
+[specific AI technology consideration]
 
 - ### Transparency
 
+  - Is it apparent that a system is making the decisions and not a human?
+  
+  - Is there anyway to look into how the decision had been made?
+
 - ### Upholding norms of wellness and human flourishing
+
+  - Does the system promote exploitation, negative behaviours (like addiction), racism, and discrimination?
 
 ## Data
 
@@ -80,15 +94,23 @@
 
 - ### Data protection
 
+  - Do you hold sensitive data securely?
+
 - ### Consent
 
-[specific technology consideration]
+  - Do you seek consent for a persons's sensitive data
+
+  - Do you seek consent and value the person's time?
+
+[specific AI technology consideration]
 
 - ### Unwanted Bias
 
-  - Fairness of participants an AI system should be upheld and, where possible, be demonstrated through statistical analysis 
+  - Fairness of participants in an AI system should be upheld and, where possible, be demonstrated.
 
 - ### Data manipulation
+
+  - Do you manipulate data to the detriment of your users to best fit your own goals?
 
 - ### Obfuscation and duplication of personal data
 
@@ -100,24 +122,38 @@
 
 - ### Security
 
-- ### Saftey
+  - Do you hold sensitive data securely? [refer: [#Data-protection](Data protection)]
 
-[specific technology consideration]
+  - Do you have adequate security access and edit the system?
 
-- ### Monitoring [specific technology consideration]
+- ### Safety
+
+  - Is you definition of safety inline with current norms or best in class?
+
+  - What safe guarding considerations have you made for stakeholders, users, citizens and animals when you system is operational?
+
+[specific AI technology consideration]
+
+- ### Monitoring [specific AI technology consideration]
   
   - definition of expected behaviour / error handling / unintended behaviour / introducing bias
 
 - ### Explainability
 
+  - Is there any way to explain or demonstrate the process or getting to a decision?
+
 - ### Third party algorithms and services
+
+  - Have you applied considerations from this framework to other suppliers work e.g. third party models?
 
 
 ## Research
 
-[specific technology consideration]
+[specific AI technology consideration]
 
 - ### Robust
+
+  - Is the research considered robust, appropriate and ethically sound to conduct?
 
 ***
 
@@ -125,9 +161,9 @@
 
 Category
 
--> persons to who in an organsation this may relate
+-> persons to who in an organisation this may relate
 
-[general or speicifc technology consideration]
+[general or specific technology consideration]
 
 - issue / problem / technology area
 
@@ -139,7 +175,7 @@ Category
 
       - reasons for consideration
 
-      - possible implecations to AI product, organisation or persons
+      - possible implications to AI product, organisation or persons
 
         - possible solutions / directions of travel
 
