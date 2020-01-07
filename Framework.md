@@ -6,13 +6,23 @@
 
 ## Govenments
 
+[general technology consideration]
+- ### Legislation for new technologies and their uses
+
+- ### Education / knowledge and awareness
+
+- ### Appropriate measurements of technologically influenced social flourishing
+
+[specific technology consideration]
+
 - ### Appropriate AI usage
   
   - Where is or isn't it appropriate to use AI/ML
 
-- ### Legislation for new technologies and their uses
+- ### Surveillance
 
-- ### Education / knowledge and awareness
+  - When ad for what reason is Surveillance appropriate?
+
 
 ## Businesses / organisations / brand
 
@@ -26,11 +36,9 @@
 
   - Is the team a reflection of values and cultures found in your market and anyone else orthoganal to your service?
 
-- ### Accountantable
-
 - ### Organisational culture / ethos
 
-- ### Human rights (?)
+- ### Human rights and measurements of human flourishing
 
 - ### Democratising
 
@@ -38,6 +46,9 @@
 
 - ### Business model
 
+[specific technology consideration]
+
+- ### Accountantable
 
 ## Design
 
@@ -78,6 +89,10 @@
   - Fairness of participants an AI system should be upheld and, where possible, be demonstrated through statistical analysis 
 
 - ### Data manipulation
+
+- ### Obfuscation and duplication of personal data
+
+  - Machine Learning techniques can be used to injest / transform input data into weights and biases, even after the original data is deleted, the model may be able to reproduce the data closely.
 
 ## Technology
 
