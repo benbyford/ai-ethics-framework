@@ -5,8 +5,8 @@
 This is a non-exhaustive list of issues, questions and risks when trying to create an ethical/responsible AI service or product.
 
 Framework docs:
-- [https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md](Framework)
-- [https://github.com/benbyford/ai-ethics-framework/blob/master/Governance.md](Governance)
+- [Framework](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md)
+- [Governance](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md)
 
 The framework found [here](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md) is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc.
 
@@ -14,9 +14,13 @@ This framework is used by [Ethical By Design](https://ethicalby.design) as a met
 
 As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation).
 
-The [https://github.com/benbyford/ai-ethics-framework/blob/master/Governance.md](Governance) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical priciple stipulations.
+The [Governance](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical priciple stipulations.
 
-Final caveat: This is not relevant to AGI research, singularity or theory of mind but refers to a business interested or currently using Machine Learning, genetic algorithms, automata, or expert systems in a larger system context.
+Final caveat: This is not relevant to AGI research, singularity or theory of mind but refers to a person/business interested or currently using Machine Learning, genetic algorithms, expert systems etc, in a larger system context.
+
+## Assumptions
+
+There is an assumption going into this framework that you and/or your team/company have a base level or understanding, competency, and willingness to create the best services you possibility can for your customers, citizens and the environment. If this assumption is incorrect then this may not help you (and I would recommend doing some self reflection). If this is true, you may find that some of the content here you may know, are currently implementing or have never thought about before. This is fine, use what you need and feedback where things don't make sense. My hope is that this framework can enable more people to self-serve better technological services where dedicated consultancies like [Ethical By Design](https://ethicalby.design) or internal ethics employees are absent.
 
 ## How to use this framework
 
@@ -49,7 +53,7 @@ Category
 
 [general or specific technology consideration]
 
-- issue / problem / technology area
+- issue / problem / technology area [tags, tag...]
   - General issue articulation e.g. problem space and/or question
     - reasons for consideration
       - possible solutions / directions of travel

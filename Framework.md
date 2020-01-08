@@ -56,7 +56,7 @@
 
   - People should be aware that they are interacting with an AI system, and should be informed of the system’s capabilities and limitations.
 
-- ### Fairness
+- ### Fairness
 
   - What are the measures of fairness in your particallar area?
 
@@ -106,6 +106,10 @@
 
   - Fairness of participants in an AI system should be upheld and, where possible, be demonstrated.
 
+- ### Data relevance
+
+  - If the data is old, unreliable, or dirty (a data science term referring to there being many problems in the data that need to be sorted out before it can be used for inference) then it may not be appropriate to be used with Machine Leaning techniques.
+
 - ### Data manipulation
 
   - Do you manipulate data to the detriment of your users to best fit your own goals?
@@ -139,6 +143,10 @@
 - ### Explainability
 
   - Is there any way to explain or demonstrate the process or getting to a decision?
+
+- ### Perversion
+
+  - Is the model open to be perverted by external sources?
 
 - ### Third party algorithms and services
 
