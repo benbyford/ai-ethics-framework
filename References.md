@@ -16,6 +16,7 @@
 
 ## Principles
 
+- *OECD Principles on AI*, OECD - [https://www.oecd.org/going-digital/ai/principles/](https://www.oecd.org/going-digital/ai/principles/)
 - *Ethics guidelines for trustworthy AI*, European Commission - [https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai)
 
 ## Consultant companies / organisations
@@ -24,4 +25,5 @@
 
 ## Governance
 
+- Accenture [BUILDING DATA AND AI ETHICS COMMITTEES](https://www.accenture.com/_acnmedia/PDF-107/Accenture-AI-And-Data-Ethics-Committee-Report-11.pdf#zoom=50)
 - PWC - Three governance considerations to unlock the potential of AI [https://www.digitalpulse.pwc.com.au/AI-governance-considerations/](https://www.digitalpulse.pwc.com.au/AI-governance-considerations/)
