@@ -6,17 +6,17 @@ This is a non-exhaustive list of issues, questions and risks when trying to crea
 
 Framework docs:
 - [Framework](Framework.md)
-- [Issues](https://github.com/benbyford/ai-ethics-framework/blob/master/Issues.md)
-- [Governance](https://github.com/benbyford/ai-ethics-framework/blob/master/Governance.md)
-- [References](https://github.com/benbyford/ai-ethics-framework/blob/master/References.md)
+- [Issues](Issues.md)
+- [Governance](Governance.md)
+- [References](References.md)
 
-The framework found [here](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md) is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc.
+The framework found [here](Framework.md) is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc.
 
 This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, governance frameworks and context specific research.
 
 As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation).
 
-The [Governance](https://github.com/benbyford/ai-ethics-framework/blob/master/Governance.md) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical principle stipulations.
+The [Governance](Governance.md) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical principle stipulations.
 
 Final caveat: This is not relevant to AGI research, singularity or theory of mind but refers to a person/business interested in or currently using Machine Learning, genetic algorithms, expert systems etc, in a larger system context.
 
