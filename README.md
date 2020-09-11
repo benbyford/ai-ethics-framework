@@ -5,7 +5,7 @@
 This is a non-exhaustive list of issues, questions and risks when trying to create an ethical/responsible AI service or product. This list and framework is a work in progress–get involved by creating issues and pull requests for this repo or contacting [hello@ethicalby.design](hello@ethicalby.design)
 
 Framework docs:
-- [Framework](https://github.com/benbyford/ai-ethics-framework/blob/master/Framework.md)
+- [Framework](Framework.md)
 - [Issues](https://github.com/benbyford/ai-ethics-framework/blob/master/Issues.md)
 - [Governance](https://github.com/benbyford/ai-ethics-framework/blob/master/Governance.md)
 - [References](https://github.com/benbyford/ai-ethics-framework/blob/master/References.md)
