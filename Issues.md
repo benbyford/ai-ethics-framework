@@ -1,8 +1,10 @@
 # AI Ethics Framework
 
-***A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the READ.md document***
+***A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the [README.md](README.md) document***
 
 ## Govenments
+
+-> General public, policy makers, heads of state 
 
 [general technology consideration]
 
@@ -11,16 +13,22 @@
 - ### Education / knowledge and awareness
 
 - ### Appropriate measurements of technologically influenced social flourishing
+  
+  - What do we mean by flourishing in the digital age? 
+
+- ### Values
+
+  - What values are you promoting that will inform decision making?
 
 [specific AI technology consideration]
 
-- ### Appropriate AI usage
+- ### Appropriate AI usage (guidance)
   
-  - Where is or isn't it appropriate to use AI/ML
+  - Where is or isn't it appropriate to use AI/ML (see roboethics)
 
 - ### Surveillance
 
-  - When ad for what reason is Surveillance appropriate?
+  - For what reason is AI based Surveillance appropriate?
 
 ## Businesses / organisations / brand
 
@@ -30,11 +38,15 @@
 
 - ### Product alignment / intentions
   
-  - Does the service meet a meaningful human need, address an injustice, or create a positive change in behaviour?
+  - Does the service meet a meaningful human need, address an injustice, or create a **positive** change in behaviour?
 
 - ### Diversity
 
   - Is the team a reflection of values and cultures found in your market and anyone else orthoganal to your service?
+
+- ### Business Values
+
+  - What values are you promoting that will inform decision making during the project lifecycle?
 
 - ### Organisational culture / ethos
 
@@ -50,25 +62,28 @@
 
 - ### Accountantable
 
+- ### Dogma
+
+  - Have you considered the dogmatic nature of your systems that may inforce or exasperate unfairness found in the data or team's implementation?
+
 ## Design
 
 -> Designer, system architect, UX, UI, product manager
 
 [general technology consideration]
 
-- ### Inclusive / exclusive
+- ### System Transparency
 
   - People should be aware that they are interacting with an AI system, and should be informed of the system’s capabilities and limitations.
 
 - ### Fairness
 
   - What are the measures of fairness in your particallar area?
-
-  - What compromises are you making between fairness of different groups?
+  - What compromises are you making between the fairness and equality of different groups?
 
 - ### Impersonation (Gender or otherwise)
 
-  - How is the system being portrayed?
+  - How is the system being portrayed? (anthropomorphising)
 
 - ### Environmental impact
 
@@ -80,11 +95,10 @@
 
 [specific AI technology consideration]
 
-- ### Transparency
-
-  - Is it apparent that a system is making the decisions and not a human?
+- ### Explainable
   
   - Is there anyway to look into how the decision had been made?
+  - Can a decision be explained and understood by differing stakeholders
 
 - ### Upholding norms of wellness and human flourishing
 
@@ -92,7 +106,7 @@
 
 ## Data
 
--> data scientist, analyst, developer, programmer, sociologist, anthopologist, social scientist
+-> data scientist, analyst, researcher, developer, programmer, sociologist, anthopologist, social scientist
 
 [general technology consideration]
 
@@ -102,9 +116,8 @@
 
 - ### Consent
 
-  - Do you seek consent for a persons's sensitive data
-
-  - Do you seek consent and value the person's time?
+  - Do you seek consent for a persons's sensitive data?
+  - Do you value the person's time?
 
 [specific AI technology consideration]
 
@@ -133,30 +146,29 @@
 - ### Security
 
   - Do you hold sensitive data securely? [refer: [#Data-protection](Data protection)]
-
-  - Do you have adequate security access and edit the system?
+  - Do you have adequate security access log system?
 
 - ### Safety
 
   - Is you definition of safety inline with current norms or best in class?
-
   - What safe guarding considerations have you made for stakeholders, users, citizens and animals when you system is operational?
+  - In what ways can you system fail gracefully?
 
 [specific AI technology consideration]
 
 - ### Monitoring [specific AI technology consideration]
   
-  - definition of expected behaviour / error handling / unintended behaviour / introducing bias
+  - Definition of expected behaviour / error handling / unintended behaviour / introducing bias
 
 - ### Explainability
 
-  - Is there any way to explain or demonstrate the process or getting to a decision?
+  - Is there any way to explain or demonstrate the process or getting to a decision? (see above)
 
-- ### Perversion
+- ### Perversion / system exploitation
 
-  - Is the model open to be perverted by external sources?
+  - Is the model open to be perverted / exploited by external sources now or in the future?
 
-- ### Third party algorithms and services
+- ### Procurement
 
   - Have you applied considerations from this framework to other suppliers work e.g. third party models?
 
@@ -167,6 +179,6 @@
 
 [specific AI technology consideration]
 
-- ### Robust
+- ### Robust & appropriate
 
   - Is the research considered robust, appropriate and ethically sound to conduct?
