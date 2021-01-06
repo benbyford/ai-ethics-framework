@@ -88,5 +88,7 @@ References to research can be found in the [References](https://github.com/benby
 ## Our work:
 
 [Ethical By Design](https://ethicalby.design)
+
 [Machine Ethics Podcast](https://machine-ethics.net)
+
 [Ben Byford](https://www.benbyford.com)
