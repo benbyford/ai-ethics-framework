@@ -7,12 +7,14 @@
 - Practical ethics Ethics principles
 - Process outline
 - Best practise in detail
+- Org size and specific guidance
 - AI Ethics Leadership
 
 
 ## General best practice skeleton
 
 - Governance / project management
+  - Commitee
   - People / diversity
   - Value alignment
   - Success alignment / Measuring 
@@ -39,6 +41,10 @@
 ## Process outline
 
 ## General best practice in detail
+
+## Org size and specific guidance
+
+Ethics commitee
 
 ## AI Ethics Leadership
 
