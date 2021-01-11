@@ -25,6 +25,11 @@
 - ### Appropriate AI usage (guidance)
   
   - Where is or isn't it appropriate to use AI/ML (see roboethics)
+ 
+- ### Warfare and direct harm
+
+  - When, if ever, is it appropriate to use AI and automated technologies in warfare?
+  - Who is accountable / responsible for an AI's operation and outcomes
 
 - ### Surveillance
 
