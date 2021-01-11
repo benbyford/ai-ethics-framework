@@ -3,12 +3,11 @@
 ***A general ethics framework for organisations to learn more about AI issues - used as a tool by [www.ethicalby.design](https://www.ethicalby.design). For context around this framework please read the READ.md document***
 
 ## Contents
-- General Best practise skeleton
-- Practical ethics Ethics principles
-- Process outline
-- Best practise in detail
-- Org size and specific guidance
-- AI Ethics Leadership
+- [General Best practise skeleton](#general-best-practice-skeleton)
+- [Practical ethics Ethics principles](#practical-ethics-ethics-principles)
+- [Process outline](#process-outline)
+- [Best practise in detail](#general-best-practice-in-detail)
+- [AI Ethics Leadership](#ai-ethics-leadership)
 
 
 ## General best practice skeleton
@@ -42,9 +41,10 @@
 
 ## General best practice in detail
 
-## Org size and specific guidance
+### Governance
 
-Ethics commitee
+#### Ethics commitee
+
 
 ## AI Ethics Leadership
 
