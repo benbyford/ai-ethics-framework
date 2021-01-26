@@ -37,6 +37,8 @@
 
 - Embedding Ethics in practice
 
+- Enabling Ethics
+
 ## Process outline
 
 ## General best practice in detail
