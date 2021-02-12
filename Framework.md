@@ -12,23 +12,21 @@
 
 ## General best practice skeleton
 
-- Governance / project management
+- Governance
   - Commitee
   - People / diversity
+  - Ethical escalation
+- Project management / project delivery
   - Value alignment
   - Success alignment / Measuring 
   - Ethics tooling
   - Logging
-- System Design
-  - System alignment
-- Risk
+  - Gatekeeping
   - Horizon scanning / Design Fictions
-  - Ethical risk assessment
-- Data
+  - Ethical risk assessment (RAID logs)
   - Data ethics
   - General topics and checklists
-- Testing / measuring
-  - Monitoring
+  - Testing / measuring / monitoring
   
   
 **TODO** 
