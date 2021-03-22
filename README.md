@@ -9,13 +9,14 @@ Framework docs:
 - [Issues](Issues.md)
 - [Governance](Governance.md)
 - [Workshops](Workshops.md)
+- [Questions](Questions.md)
 - [References](References.md)
 
 The [Issues](Issues.md) file is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc. This feeds into the general guidance of the [Framework](Framework.md) which relates to this list and the roles there in.
 
 This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, governance frameworks and context specific research and cultural change.
 
-As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation).
+As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation). For a short snapshot of AI project considerations, please see the [questions doc](Questions.md).
 
 The [Governance](Governance.md) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical principle stipulations.
 
