@@ -1,10 +1,12 @@
 # Workshops
 
+## Ethical risk ideation
 
-## Ethical risk ideation
+Identifying risks associated with your system. Some workshops to consider:
 
 - Horizon scanning
 - Red teaming
+- Ethical design crit / designated dissenter
 
 
 ## Design interventions
