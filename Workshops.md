@@ -1,17 +1,15 @@
 # Workshops
 
-## Ethical risk ideation
+## Ethical risk ideation and speculative design
 
-Identifying risks associated with your system. Some workshops to consider:
+To identify risks / issues associated with your system you may want to consider workshop tools like:
 
 - Horizon scanning
+- World building / story writing
 - Red teaming
 - Ethical design crit / designated dissenter
-
-
-## Design interventions
-
-Ethical exploration through design. These can take the form of:
-
 - Wizard of OZ experiments
 - Design Futures prototypes
+- Consequence wheel 
+- Tension / values mapping
+
