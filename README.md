@@ -1,8 +1,8 @@
 # AI Ethics Framework
 
-*Ethical questions, risks and issues to think about to help create responsible AI products and services*.
+*Ethical questions, risks, issues, framework and tools to help create responsible AI products and services*.
 
-This is a non-exhaustive list of issues, questions and risks when trying to create an ethical / responsible AI service / product. This list and framework is a work in progress–get involved by creating issues and pull requests for this repo or contacting with us [hello@ethicalby.design](hello@ethicalby.design)
+This is a framework and non-exhaustive list of issues, questions and risks when trying to create an ethical / responsible AI service / product. This is a work in progress–get involved by creating issues and pull requests for this repo or contacting us [hello@ethicalby.design](hello@ethicalby.design). This was created in part by Ben Byford of [ethicalby.design](https://www.ethicalby.design).
 
 Framework docs:
 - [Framework](Framework.md)
@@ -12,31 +12,36 @@ Framework docs:
 - [Questions](Questions.md)
 - [References](References.md)
 
-The [Issues](Issues.md) file is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc. This feeds into the general guidance of the [Framework](Framework.md) which relates to this list and the roles there in.
+The [Issues](Issues.md) file is a list split into broad categories that relate to the type of people the question relates to, or the general area of discussion. E.g. Data, Design, Research etc. This feeds into the general guidance of the [Framework](Framework.md) which relates to this list and the roles therein.
 
-This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership talks on AI and Ethics, governance frameworks and context specific research and cultural change.
+This framework is used by [Ethical By Design](https://ethicalby.design) as a method for helping businesses create responsible AI services. The framework is used along with Design, Business and Brand strategy workshops, leadership and educational talks on AI and Ethics, governance frameworks and context specific research and cultural change initiatives.
 
-As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation). For a short snapshot of AI project considerations, please see the [questions doc](Questions.md).
+As such, this framework shouldn't be viewed as a final product or a complete method rather a tool to help an organisation discover issues they may have overlooked and put better practises in place to mitigate inherent issues with implementing AI technologies in the real world (e.g. other than in simulation). For a short snapshot of AI project considerations, please see the [questions doc](Questions.md). For a consultation please see [Ethical By Design](https://ethicalby.design).
 
 The [Governance](Governance.md) doc explores ways to structure ethical consideration into project life-cycles and ways to give teeth to ethical principle stipulations.
 
-The [Workshops](Workshops.md) file is a guidance document for doing specific workshops with your team at specific times talked about in the Framework. You can alos check out the Workshop doc for links to other peoples workshops and for insipration for your own. 
+The [Workshops](Workshops.md) file is a guidance document for doing specific workshops with your team at specific times talked about in the Framework. You can also check out the Workshop doc for links to other peoples workshops and for inspiration for your own. 
 
-**Final caveat:** This work is not relevant to AGI research, singularity or theory of mind but refers to a person/business interested in or currently using Machine Learning, genetic algorithms, expert systems etc, in a larger system context for their service/product.
+**Final caveat:** This work is not relevant to AGI research, singularity or theory of mind but refers to a person/business interested in or currently using Machine Learning, genetic algorithms, expert systems etc, in a larger system context for their service / product.
 
 ## Assumptions
 
-There is an assumption going into this framework that you and/or your team/company have a base level or understanding, competency, and willingness to create the best services you possibly can for your customers, citizens and the environment. If this assumption is incorrect then this may not help you (and I would recommend doing some self reflection). If this is true, you may find that some of the content here you may know, are currently implementing or indeed have never thought about before. This is fine, use what you need and feedback where things don't make sense.
+There is an assumption going into this framework that you and/or your team/company have a base level of understanding, competency, and willingness to create the best services you possibly can for your customers, citizens and the environment. If this assumption is incorrect then this may not help you (and I would recommend doing some self reflection). If this is true, you may find that some of the content here you may know, are currently implementing or indeed have never thought about before. This is fine, use what you need and feedback where things don't make sense.
 
-My hope is that this framework can enable more people to self-serve better technological services or prime themselves before getting dedicated consultancies like [Ethical By Design](https://ethicalby.design) to help with suck activiates.
+My hope is that this framework can enable more people to self-serve better technological services or prime themselves before getting dedicated consultancies like [Ethical By Design](https://ethicalby.design) to help with such activates.
 
 ## How to use this framework
 
-### Why broad categories?
+### Using the framework and when
 
-The framework is split into categories that are board approximations for issues that relate to a type of person within an organisation best suited to make them. Each category will stipulate these people before each list. This doesn't mean that if that person isn't what relates to you or your expeirence then not to read that section, but it is a proxy for whom these decisions or choices often fall. For example it may be advised that all decision making parties within the organisation read the entire list and framework, some of it may go over individual's heads but it will mean you are all on-boarded to issues that arise in different areas of the organisation and can discuss on a similar level of understanding.
+TODO: general framework advice
 
-Many topics could fit into various places, but to avoid duplication categories have been placed with the greatist resonance with that category and decision maker/experience. Each category is a reflection of where approximately in the pipeline these decisions get made or where issues generally arise. Most issues indeed arise because of human decisions.
+
+### Issues: Why broad categories?
+
+The issues doc is split into categories that are board approximations for issues that relate to a type of person within an organisation best suited to make them. Each category will stipulate these people before each list. This doesn't mean that if that person isn't what relates to you or your experience then not to read that section, but it is a proxy for whom these decisions or choices often fall. For example it may be advised that all decision making parties within the organisation read the entire list and framework, some of it may go over individual's heads but it will mean you are all on-boarded to issues that arise in different areas of the organisation and can discuss on a similar level of understanding.
+
+Many topics could fit into various places, but to avoid duplication categories have been placed with the greatest resonance with that category and decision maker/experience. Each category is a reflection of where approximately in the pipeline these decisions get made or where issues generally arise. Most issues indeed arise because of human decisions.
 
 ### Advocacy / leadership
 
@@ -52,7 +57,7 @@ The framework is largely written in the negative e.g. What negative environmenta
 
 ### Technology Ethics
 
-Much of the framing of this document is around the use of AI technologies, however as you're see in the [issues](Issues.md) section, much of the thinking found here can be used for technology projects generally. Building digital services will have many of the same issues here whether using AI technology or not. I've hightlighted what I consider AI specific issues within the docs.
+Much of the framing of this document is around the use of AI technologies, however as you're see in the [issues](Issues.md) section, much of the thinking found here can be used for technology projects generally. Building digital services will have many of the same issues here whether using AI technology or not. I've highlighted what I consider AI specific issues within the docs.
 
 ### Issues formatting
 
