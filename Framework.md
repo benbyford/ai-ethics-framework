@@ -14,7 +14,7 @@
 
 - Business
   - Culture
-  - Procurement
+  - Procurement / Ethical investing
 - Governance
   - Commitee
   - Ethical escalation
@@ -34,7 +34,7 @@
   
 **TODO** 
 
-## Practical ethics Ethics principles
+## Practical ethics principles
 
 - Embedding Ethics in practice
 
