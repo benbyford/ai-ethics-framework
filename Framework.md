@@ -12,10 +12,13 @@
 
 ## General best practice skeleton
 
+- Business
+  - Culture
+  - Procurement
 - Governance
   - Commitee
-  - People / diversity
   - Ethical escalation
+  - People / diversity
 - Project management / project delivery
   - Value alignment
   - Success alignment / Measuring 
