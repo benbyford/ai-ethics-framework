@@ -67,6 +67,10 @@
 
 - ### Accountantable
 
+- ### Job loss or augmentation
+
+  - Have you considered how the system will impact your workforce, how hey do their work, what upskilling they may need, or whether it will hollow out their job?
+
 - ### Dogma
 
   - Have you considered the dogmatic nature of your systems that may inforce or exasperate unfairness found in the data or team's implementation?
