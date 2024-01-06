@@ -37,8 +37,8 @@
 ## Practical ethics principles
 
 - Embedding Ethics in practice
-
 - Enabling Ethics
+- Proportionate Transparency and explainability
 
 ## Process outline
 
