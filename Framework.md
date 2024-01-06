@@ -39,6 +39,7 @@
 - Embedding Ethics in practice
 - Enabling Ethics
 - Proportionate Transparency and explainability
+- Transparency for trust and better mental models
 
 ## Process outline
 
