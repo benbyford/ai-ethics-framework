@@ -15,6 +15,7 @@
 - Business
   - Culture
   - Procurement / Ethical investing
+  - Company values
 - Governance
   - Commitee
   - Ethical escalation
